@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## mackCacheMatrix takes a matrix, "x" and stores it in the parent environment
 ## (rewritting over any previously stored matrices in "x")
 
